@@ -1,0 +1,7 @@
+D:\VS17\projects\LShell\LShell\bin\Debug\LShell.exe.config
+D:\VS17\projects\LShell\LShell\bin\Debug\LShell.exe
+D:\VS17\projects\LShell\LShell\bin\Debug\LShell.pdb
+D:\VS17\projects\LShell\LShell\obj\Debug\LShell.csprojAssemblyReference.cache
+D:\VS17\projects\LShell\LShell\obj\Debug\LShell.csproj.CoreCompileInputs.cache
+D:\VS17\projects\LShell\LShell\obj\Debug\LShell.exe
+D:\VS17\projects\LShell\LShell\obj\Debug\LShell.pdb

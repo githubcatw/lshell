@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LShell", "LShell\LShell.csproj", "{03BAB8AB-76AB-4670-A4C3-FB0461F401C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BAB8AB-76AB-4670-A4C3-FB0461F401C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BAB8AB-76AB-4670-A4C3-FB0461F401C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BAB8AB-76AB-4670-A4C3-FB0461F401C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BAB8AB-76AB-4670-A4C3-FB0461F401C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD244A86-63F3-4E4C-970D-FA8BF9327E15}
+	EndGlobalSection
+EndGlobal
