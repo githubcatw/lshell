@@ -1,5 +1,5 @@
 # LShell
-LShell is an open-source Bash-like command interpreter for Windows.
+LShell is an open-source Bash-like command redirector for Windows.
 
 ![Screenshot](images/lsh_scr.png)
 
