@@ -1,0 +1,6 @@
+D:\VS17\projects\LShell\LShell\bin\Release\LShell.exe.config
+D:\VS17\projects\LShell\LShell\bin\Release\LShell.exe
+D:\VS17\projects\LShell\LShell\bin\Release\LShell.pdb
+D:\VS17\projects\LShell\LShell\obj\Release\LShell.csproj.CoreCompileInputs.cache
+D:\VS17\projects\LShell\LShell\obj\Release\LShell.exe
+D:\VS17\projects\LShell\LShell\obj\Release\LShell.pdb

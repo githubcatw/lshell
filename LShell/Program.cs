@@ -79,11 +79,13 @@ namespace LShell
         void Process(string s)
         {
             //Console.WriteLine(ModuleInstalled(s));
-            if (ModuleInstalled(s))
-            {
+            if (ModuleInstalled(s)) {
                 RunModule(s);
-            } else
-            {
+            } else if (s.Contains("clear")) {
+                Console.Clear();
+            } else if (s.Contains("cd")) {
+                Directory.SetCurrentDirectory(s.Replace("cd ", ""));
+            } else {
                 RunCommand(s);
             }
             Display();
