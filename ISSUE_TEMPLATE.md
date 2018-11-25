@@ -1,22 +1,22 @@
-## Context
+### Context
 
 
-## Steps to Reproduce
+### Steps to Reproduce
 1.
 2.
 3.
 4.
 
-## Expected Behavior
+### Expected Behavior
 
 
-## Current Behavior
+### Current Behavior
 
 
-## Possible Solution/Workaround
+### Possible Solution/Workaround
 
 
-## Environment
+### Environment
 
 * LShell version: 
 * Visual Studio version: 
